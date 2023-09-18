@@ -1,4 +1,4 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.strings
 
 /**
  * Given a string with brackets -> (, ), [, ], { and } you must return `true` if it is a valid string or `false` if it isn't.
