@@ -1,5 +1,6 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.math
 
+import br.com.amazingapps.playground.math.SplitInteger
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*

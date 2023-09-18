@@ -1,4 +1,4 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.math
 
 /**
  * In this challenge, you will write a function to divide an integer into a number of even parts,
