@@ -1,5 +1,7 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.algorithms
 
+import br.com.amazingapps.playground.algorithms.BinaryTree
+import br.com.amazingapps.playground.algorithms.TreeNode
 import org.junit.jupiter.api.Test
 
 import org.junit.jupiter.api.Assertions.*
