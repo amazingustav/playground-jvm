@@ -1,6 +1,5 @@
 package br.com.amazingapps.playground.math
 
-import br.com.amazingapps.playground.math.SmallestPositiveInt
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 

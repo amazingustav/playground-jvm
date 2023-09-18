@@ -21,7 +21,7 @@ class BalanceBrackets {
             s = s.replace(Regex("[^()\\[\\]{}]"), "")
                 .replace("()", "")
                 .replace("[]", "")
-                .replace("{}", "");
+                .replace("{}", "")
 
             if (s == temp) break
         }
