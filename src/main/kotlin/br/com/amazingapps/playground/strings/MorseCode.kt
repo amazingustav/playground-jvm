@@ -1,4 +1,4 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.strings
 
 /**
  * Background

@@ -1,8 +1,6 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.strings
 
 import org.junit.jupiter.api.Test
-
-import org.junit.jupiter.api.Assertions.*
 
 internal class MorseCodeTest {
 
