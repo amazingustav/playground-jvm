@@ -1,4 +1,4 @@
-package br.com.amazingapps.playground
+package br.com.amazingapps.playground.strings
 
 /**
  * Given a number, it must return a list with N string elements. Each element represents a number that will be
