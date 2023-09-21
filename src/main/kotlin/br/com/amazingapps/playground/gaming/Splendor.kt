@@ -1,4 +1,4 @@
-package br.com.amazingapps.playground.algorithms
+package br.com.amazingapps.playground.gaming
 
 /**
  * Splendor is a card-based board game where players buy cards in exchange for colored gems.
