@@ -59,8 +59,6 @@ class BalanceBrackets {
         else -> throw IllegalArgumentException("Character must be a bracket!")
     }
 
-    private fun MutableList<Char>.removeLast() = this.removeAt(this.size - 1)
-
     private fun Char.isCloseBracket() = this == '}' || this == ']' || this == ')'
 
     private fun Char.isOpenBracket() = this == '{' || this == '[' || this == '('
